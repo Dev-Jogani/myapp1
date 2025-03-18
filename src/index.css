@@ -2,7 +2,7 @@
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  background: linear-gradient(to right, #0486f9,rgb(0, 0, 157));
+  background: linear-gradient(to right, #AA60C8,#D69ADE);
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
@@ -12,6 +12,24 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.ProfileCard {
+  width: 300px;
+  height: 600px;
+  padding: 20px;
+  border-radius: 10px;
+  background: linear-gradient(to right, #FFDFEF, #EABDE6);
+  color: rgb(21, 19, 19);
+  text-align: center;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.profile-img {
+  width: 100%;  /* Increase size */
+  height: 60%; /* Increase size */
+  object-fit: cover;  /* Ensures the image maintains proportions */
+  border-radius: 7px;
+}
+
 
 a {
   font-weight: 500;
@@ -34,7 +52,7 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
-  color: antiquewhite;
+  color: rgb(28, 23, 16);
 }
 
 button {
