@@ -2,7 +2,7 @@
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-
+  background: linear-gradient(to right, #0486f9,rgb(0, 0, 157));
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
@@ -15,7 +15,7 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #b2b5f1;
   text-decoration: inherit;
 }
 a:hover {
@@ -23,16 +23,18 @@ a:hover {
 }
 
 body {
-  margin: 0;
+  margin: 10px;
   display: flex;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  padding:30px;
 }
 
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  color: antiquewhite;
 }
 
 button {
