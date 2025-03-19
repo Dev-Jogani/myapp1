@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Breaking Bad",
+      "IMDB": 9.5,
+      "type": "Crime, Drama, Thriller",
+      "summary": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to secure his family's future.",
+      "watch_url": "https://www.netflix.com/title/70143836",
+      "thumbnail":"https://www.bing.com/th?id=OIP.4fvjMvSb1woi-lJx5kKVugHaEo&w=183&h=106&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2"
+    },
+    {
+      "name": "Stranger Things",
+      "IMDB": 8.7,
+      "type": "Drama, Fantasy, Horror",
+      "summary": "A group of kids in the 1980s uncover supernatural mysteries and secret government experiments while searching for their missing friend.",
+      "watch_url": "https://www.netflix.com/title/80057281",
+      "thumbnail":" https://www.bing.com/th?id=OIP.-JDYEOdsCl_Yqyfj7w3GCgHaDt&w=191&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2"
+    },
+    {
+      "name": "Money Heist",
+      "IMDB": 8.2,
+      "type": "Action, Crime, Drama",
+      "summary": "A criminal mastermind, known as 'The Professor,' recruits eight thieves to carry out a heist on the Royal Mint of Spain.",
+      "watch_url": "https://www.netflix.com/title/80192098",
+      "thumbnail": "https://www.bing.com/th?id=OIP.88OsvNZElzxN8yQcPniFYwHaDt&w=216&h=106&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2"
+    },
+    {
+      "name": "The Witcher",
+      "IMDB": 8.1,
+      "type": "Action, Adventure, Drama",
+      "summary": "Geralt of Rivia, a monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+      "watch_url": "https://www.netflix.com/title/80189685",
+      "thumbnail": "https://th.bing.com/th/id/OIP.sh_w2Q1l_AqfZpkWlkXPzAHaFS?w=242&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+    },
+    {
+      "name": "Game of Thrones",
+      "IMDB": 9.2,
+      "type": "Action, Adventure, Drama",
+      "summary": "Noble families battle for control of the Seven Kingdoms of Westeros, while an ancient threat rises in the far north.",
+      "watch_url": "https://www.hbomax.com/series/urn:hbo:series:GVU2cggF9F5uAuwEAADdF",
+      "thumbnail": "https://th.bing.com/th/id/OIP.W8z0vkzfqibuDHYO0NlwVQHaEg?w=231&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+    }
+  ]
+  
