@@ -10,22 +10,22 @@
 }
 
 .Container {
-   
-    width:100%;
-    margin: auto;
+    width:60%;
+    /* margin: auto; */
     display: flex;
+    overflow-x: auto;   
+    white-space: nowrap;
     gap: 10px;
     border-radius: 8px;
     padding: 20px;
 }
-
 .item {
     width:300px;
     border: 1px solid grey;
+    flex-wrap: wrap;
     border-radius: 8px;
     padding: 10px;
 }
-
 .thumbnail {
 
     width: 100%;

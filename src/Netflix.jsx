@@ -11,7 +11,7 @@ export const Netflix = () => {
                         <h2>Title: {series.name}</h2>
                         <h3>IMDB rating: {series.IMDB}</h3>
                         <h3>Type: {series.type}</h3>
-                        <h4>Description: {series.summary}</h4>
+                        {/* <h4>Description: {series.summary}</h4> */}
                         <a href={series.watch_url} target="_blank" rel="noopener noreferrer">
                             <button style={{ padding: "10px", background: "red", color: "white", border: "none", cursor: "pointer" }}>
                                 Watch Now!!

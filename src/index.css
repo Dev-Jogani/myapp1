@@ -2,40 +2,15 @@
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  background: linear-gradient(to right, #AA60C8,#D69ADE);
+  background: linear-gradient(to right, #e8e5c1,#ffe4d4);
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.ProfileContainer {
-  display: flex; /* Arrange items in a row */
-  justify-content: space-around; /* Add space between cards */
-  align-items: center; /* Align cards properly */
-  gap: 20px; /* Add spacing between cards */
-}
-.ProfileCard {
-  width: 300px;
-  height: 600px;
-  padding: 20px;
-  border-radius: 10px;
-  background: linear-gradient(to right, #FFDFEF, #EABDE6);
-  color: rgb(21, 19, 19);
-  text-align: center;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-}
-
-.profile-img {
-  width: 100%;  /* Increase size */
-  height: 60%; /* Increase size */
-  object-fit: cover;  
-  border-radius: 7px;
-}
-
 
 a {
   font-weight: 500;
@@ -47,12 +22,12 @@ a:hover {
 }
 
 body {
-  margin: 10px;
+  /* margin: 10px; */
   display: flex;
-  place-items: center;
+  /* place-items: center; */
   min-width: 320px;
   min-height: 100vh;
-  padding:30px;
+  /* padding:30px; */
 }
 
 h1 {

@@ -8,16 +8,13 @@ export const App = () => {
 
   return (
     <Router>
-      <div>
-        {/* Toggle Button */}
+      <>
         <button
           onClick={() => setShowNetflix(!showNetflix)}
           style={{ padding: "10px", background: showNetflix ? "blue" : "red", color: "white", border: "none", cursor: "pointer", marginBottom: "10px" }}
         >
           {showNetflix ? "Back to Home" : "Go to Netflix"}
         </button>
-
-        {/* Conditional Rendering */}
         {showNetflix ? <Netflix /> : (
           <>
             <div className="ProfileContainer">
@@ -28,7 +25,7 @@ export const App = () => {
             <h1>Hello Developer Kushal, Welcome to the hustle of Coding with Dev Jogani.</h1>
           </>
         )}
-      </div>
+      </>
     </Router>
   );
 };
