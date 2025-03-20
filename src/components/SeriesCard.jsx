@@ -1,4 +1,4 @@
-import styles from "D:/react/myapp1/src/components/Netflix.module.css";
+import styles from "./Netflix.module.css";
 
 export const SeriesCard = ({series}) => {
     const {name,IMDB,type,summary,watch_url} = series;
