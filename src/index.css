@@ -1,5 +1,5 @@
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   line-height: 1.5;
   background: linear-gradient(to right, #e8e5c1,#ffe4d4);
   color: rgba(255, 255, 255, 0.87);
@@ -12,11 +12,9 @@ h1{
   line-height: 1.1;
   color: rgb(247, 247, 246);
   padding:10px;
+  font-weight: bolder;
 }
-h2,h3,h4{
-  padding:0px 10px 0px 10px;
 
-}
 button {
   border-radius: 8px;
   border: 1px solid transparent;
@@ -29,3 +27,9 @@ button {
   transition: border-color 0.25s;
 }
 
+
+h2,
+h3,
+h4 {
+    padding: 0px 10px 0px 10px;
+}

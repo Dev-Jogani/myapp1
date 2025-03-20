@@ -1,20 +1,19 @@
 import seriesData from "../src/apis/seriesData.json";
 import { SeriesCard } from "./components/SeriesCard";
-import './netflix.css';
+import styles from "../src/components/Netflix.module.css";
 
 export const Netflix = () => {
     return (
-        <div className="NetflixPage">
-            <img src="netflix.png" alt="" className="logo"/>
-                <h2 className="type">Top Series</h2>
-            <div className="SeriesContainer">
+        <div className={styles.NetflixPage}>
+            <img src="netflix.png" alt="" className={styles.logo}/>
+                <h2 className={styles.type}>Top Series</h2>
+            <div className={styles.SeriesContainer}>
                 {seriesData.map((series, index) => (
-                    console.log(series),
                    <SeriesCard key={index} series={series}/>
                 ))}
             </div>
-            <h2 className="type">Top Movies</h2>
-            <div className="MoviesContainer">
+            <h2 className={styles.type}>Top Movies</h2>
+            <div className={styles.MoviesContainer}>
                 {seriesData.map((series, index) => (
                    <SeriesCard key={index} series={series}/>
                 ))}
