@@ -1,7 +1,7 @@
 import seriesData from "../src/apis/seriesData.json";
+import moviesData from "../src/apis/MoviesData.json";
 import { SeriesCard } from "./components/SeriesCard";
 import styles from "../src/components/Netflix.module.css";
-
 export const Netflix = () => {
     return (
         <div className={styles.NetflixPage}>
@@ -14,7 +14,7 @@ export const Netflix = () => {
             </div>
             <h2 className={styles.type}>Top Movies</h2>
             <div className={styles.MoviesContainer}>
-                {seriesData.map((series, index) => (
+                {moviesData.map((series, index) => (
                    <SeriesCard key={index} series={series}/>
                 ))}
             </div>

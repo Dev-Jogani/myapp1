@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Mickey 17",
+      "IMDB": 7.8,
+      "type": "Science Fiction, Thriller",
+      "summary": "A disposable employee on a human expedition to colonize an ice world refuses to let his replacement clone take his place.",
+      "watch_url": "https://www.netflix.com/title/81234567",
+      "thumbnail": "data:image/jpeg;base64,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"
+    },
+    {
+      "name": "Anora",
+      "IMDB": 8.2,
+      "type": "Drama, Romance",
+      "summary": "A young woman navigates love and loss in a small coastal town.",
+      "watch_url": "https://www.netflix.com/title/81234568",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqLn_x4VqQePmKFO2cxvIr3HbL5kjGOp11sk5AmESUXS9PZsNL-LQpPYdUnlqNSkzDY4c&usqp=CAU"
+    },
+    {
+      "name": "The Electric State",
+      "IMDB": 7.9,
+      "type": "Science Fiction, Adventure",
+      "summary": "In a retro-futuristic past, an orphaned teenager traverses the American West with a sweet but mysterious robot and an eccentric drifter in search of her younger brother.",
+      "watch_url": "https://www.netflix.com/title/81234569",
+      "thumbnail": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYKDcGFIsbrqMFjQhETBOCLhaZumKvxxQRf_uKKkepa4K4bQWqXO2ORAqRgxZXUhhZUdAIZJWAS109McpEjXfskNfFLhH_44-she.jpg?r=677"
+    },
+    {
+      "name": "Black Bag",
+      "IMDB": 7.5,
+      "type": "Action, Spy",
+      "summary": "A retired CIA operative is pulled back into the world of espionage to uncover a global conspiracy.",
+      "watch_url": "https://www.netflix.com/title/81234570",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmomi_-SQ66iCEYoQz3nUS6Z-b5HgEdUFkmcrgLzlzVJqhEOgySQI5Q8LrA393ry5hQjI&usqp=CAU"
+    },
+    {
+      "name": "Heretic",
+      "IMDB": 7.3,
+      "type": "Horror, Thriller",
+      "summary": "A priest struggles with his faith while confronting demonic possession in a remote village.",
+      "watch_url": "https://www.netflix.com/title/81234571",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh82oQjHVMoikJkv_9kpVW77z00qpZRTD-5FDSUrLZ6PWgcAadYpMRHWvAeOQngOfxyvs&usqp=CAU"
+    },
+    {
+      "name": "The Brutalist",
+      "IMDB": 7.6,
+      "type": "Biography, Drama",
+      "summary": "The life and career of visionary architect László Tóth, who immigrated to America after World War II.",
+      "watch_url": "https://www.netflix.com/title/81234572",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6wOwL7EM6knGPrYl54xqAljS2rASXHWBYBfkQatIsD4LkNBIXszbyCwbQKrEz_56LBY&usqp=CAU"
+    },
+    {
+      "name": "Lilo & Stitch",
+      "IMDB": 7.2,
+      "type": "Animation, Family, Sci-Fi",
+      "summary": "A young Hawaiian girl adopts an unusual pet who is actually a notorious extraterrestrial fugitive.",
+      "watch_url": "https://www.netflix.com/title/81234573",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAX1RQ6jFNjkfNE_gCO73GBBUHbMZVnhpnAaN2ihml2Qk8BWyp2HjDC6xDpqUjn4tUGc&usqp=CAU"
+    },
+    {
+      "name": "Snow White",
+      "IMDB": 7.0,
+      "type": "Fantasy, Musical",
+      "summary": "A live-action adaptation of the classic fairy tale about a princess and seven dwarfs.",
+      "watch_url": "https://www.netflix.com/title/81234574",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl1djRQRBjd9GhWMZ5MWCZSv7vHzzqwxul3q2LrP1AmSd-BvT8kU9inqvoQ8u4UmrbrOQ&usqp=CAU"
+    },
+    {
+      "name": "Novocaine",
+      "IMDB": 6.8,
+      "type": "Comedy, Crime",
+      "summary": "A dentist's life spirals out of control when a seductive patient involves him in a scheme of sex, drugs, and murder.",
+      "watch_url": "https://www.netflix.com/title/81234575",
+      "thumbnail": "https://i.ytimg.com/vi/G2mn0n6_XOI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBLtAVocXHLfll5oejlrO-Ckam7Kg"
+    },
+    {
+      "name": "Den of Thieves 2: Pantera",
+      "IMDB": 6.9,
+      "type": "Action, Crime, Thriller",
+      "summary": "A sequel that follows Big Nick as he attempts to hunt down a mysterious bank robber leading a dangerous heist crew.",
+      "watch_url": "https://www.netflix.com/title/81234576",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR63E7aP7EIQjTCMYS8y6io1Qwwkb_kj4IOOKDjkSZERFckQYbT_sYbTJZRJchLvgVINjs&usqp=CAU"
+    }
+  ]
+  

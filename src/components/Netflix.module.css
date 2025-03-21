@@ -10,15 +10,7 @@
     height: auto;
 }
 
-.SeriesContainer {
-    display: flex;
-    overflow-x: scroll;
-    scrollbar-width: none;
-    gap: 10px;
-    padding: 20px;
-}
-
-.MoviesContainer {
+.SeriesContainer, .MoviesContainer {
     display: flex;
     overflow-x: scroll;
     scrollbar-width: none;
@@ -29,11 +21,31 @@
 .item {
     min-width: 300px;
     padding-bottom: 10px;
-    border: 1px solid grey;
     border-radius: 8px;
-
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
 }
 
+/* Create the border effect */
+.item::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 3px solid rgb(91, 0, 0); /* Border color */
+    box-sizing: border-box;
+    transform: scaleY(0); /* Initially hidden */
+    transform-origin: top;
+    transition: transform 0.6s ease-in-out;
+}
+
+/* Hover effect: Border expands from top to bottom */
+.item:hover::before {
+    transform: scaleY(1); /* Fully visible */
+}
 .thumbnail {
     width: 100%;
     height: 180px;
@@ -45,7 +57,6 @@
 .type {
     margin-left: 30px;
     margin-bottom: 0px;
-
 }
 
 .superhit {
